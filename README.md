@@ -12,8 +12,8 @@ The function should make the top half of the input image all white.
 
 Given the following input image:
 
-![Input image](../assets/alan_kay.jpg)
+![Input image](https://raw.githubusercontent.com/osoco/clear-half-top-image-exercise/master/assets/alan_kay.jpg)
 
 The image should be changed to the following one:
 
-![Resulting image](alan_kay_top_half.jpg)
+![Resulting image](https://raw.githubusercontent.com/osoco/clear-half-top-image-exercise/master/assets/alan_kay_top_half.jpg)
