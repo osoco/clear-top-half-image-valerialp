@@ -1,2 +1,19 @@
-# clear-half-top-image-exercise
-Clear Half Top Image exercise for computational thinking
+# Clear top half exercise
+
+This is a very simple exercise to check computational thinking skills.
+
+## Description
+
+We have to program a function named `clearTopHalf()` receiving a parameter `picture` representing an image.
+
+The function should make the top half of the input image all white.
+
+## Test case
+
+Given the following input image:
+
+![Input image](alan_kay.jpg)
+
+The image should be changed to the following one:
+
+![Input image](alan_kay_top_half.jpg)
