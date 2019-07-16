@@ -16,4 +16,4 @@ Given the following input image:
 
 The image should be changed to the following one:
 
-![Input image](alan_kay_top_half.jpg)
+![Resulting image](alan_kay_top_half.jpg)
