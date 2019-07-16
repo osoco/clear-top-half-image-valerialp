@@ -12,7 +12,7 @@ The function should make the top half of the input image all white.
 
 Given the following input image:
 
-![Input image](alan_kay.jpg)
+![Input image](../assets/alan_kay.jpg)
 
 The image should be changed to the following one:
 
